@@ -189,6 +189,21 @@ nav a {
     font-family: 'Roboto', sans-serif;
 }
 
+.mr-lg-2 button {
+    color: #fff;
+    font-size: 16px;
+    letter-spacing: 2px;
+    text-transform: capitalize;
+    font-weight: 500;
+    margin: 0px 4px;
+    padding: 12px 10px;
+    transition: 0.5s all;
+    -webkit-transition: 0.5s all;
+    -moz-transition: 0.5s all;
+    -o-transition: 0.5s all;
+    -ms-transition: 0.5s all;
+    font-family: 'Roboto', sans-serif;
+}
 
 nav ul li ul li:hover {
     background: #f8f9fa;
